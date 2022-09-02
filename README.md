@@ -1,3 +1,3 @@
 # cryptographymachine
-cryptography machine which uses dictionaries of common phrases to allow you encode and decode your messages!
+Utilized Python to create a cryptography machine that uses dictionaries of common phrases allowing you to encode and decode your messages
 
